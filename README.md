@@ -1,7 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # App Pictures
-
+<div style="margin: 0 auto">
+   <img src="https://github.com/DhenzelNexxus/NativeCalculator/blob/master/src/assets/Screenshot_1712331926.png" width=300 height=600></img>
+</div>
 
 # Getting Started
 
