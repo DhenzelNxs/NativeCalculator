@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # App Pictures
-<img src="file:///C:/Users/plasm/OneDrive/Desktop/Screenshot_1712331926.png"></img>
+
 
 # Getting Started
 
