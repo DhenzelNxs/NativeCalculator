@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # App Pictures
 <div style="margin: 0 auto">
-   <img src="https://github.com/DhenzelNexxus/NativeCalculator/blob/master/src/assets/screenshot/Screenshot_1712331926.png" width=200 height=400></img>
+   <img src="https://raw.githubusercontent.com/DhenzelNexxus/NativeCalculator/master/src/assets/screenshot/Screenshot_1712331926.png" width=200 height=400 />
 </div>
 
 # Getting Started
